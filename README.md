@@ -28,7 +28,7 @@ https://github.com/OmniDB/OmniDB/issues/1067
 # 1- Introduction
 
 **OmniDB** is a web tool that simplifies database management focusing on
-interactivity, designed to be powerful and lightweight. Check-out some
+interactivity, designed to be powerful and lightweight. Check out some
 characteristics:
 
 - **Web Tool**: Accessible from any platform, using a browser as a medium
@@ -70,7 +70,7 @@ OmniDB is designed for easy database management. Here are some features:
 ![](https://raw.githubusercontent.com/OmniDB/doc/master/img/image_020.png)
 
 - Simple form for table creation and editing
-  - Tables' names
+  - Table names
   - Columns: name, type and nullable
   - Primary keys and respective columns
   - Foreign keys with either table and reference columns, including updating rules and removal as well
